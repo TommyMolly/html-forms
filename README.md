@@ -1,1 +1,1 @@
-![CI](https://github.com/tommymolly/html-forms/actions/workflows/ci.yml/badge.svg)
+[![Deploy to GitHub Pages](https://github.com/TommyMolly/html-forms/actions/workflows/deploy.yml/badge.svg)](https://github.com/TommyMolly/html-forms/actions/workflows/deploy.yml)
